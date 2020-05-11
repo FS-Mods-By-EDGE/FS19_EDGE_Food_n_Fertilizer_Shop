@@ -55,6 +55,7 @@
         <fillType name="pigFood" priceScale="1.10"/>
         <fillType name="WHEAT" priceScale="1.10"/>
         <fillType name="OAT" priceScale="1.10"/>
+        <fillType name="DRYGRASS_WINDROW" priceScale="1.10"/>
         <fillType name="forage" priceScale="1.10"/>
         <fillType name="digestate" priceScale="1.10"/>
     </buyingStation>

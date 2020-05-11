@@ -107,9 +107,9 @@ Rozmiar: 21 x 11 Metrów
 
 -Budynek obsługuje „Seasons” i „Courseplay Six”.
 
-Lista zmian 1.0.0.0:
+Dziennik zmian 1.0.0.0:
 - Pierwsze wydanie.
-Lista zmian 1.5.0.0:
+Dziennik zmian 1.5.0.0:
 - Dodano funkcje i nazwę L10N, więc jest to bardziej zrozumiałe dla wszystkich ludzi, było to głównie po angielsku.
 - Zaktualizowałem mod z większą liczbą języków.
 - Utworzono nowe tekstury naklejek i dodano shadery do budynku.
@@ -164,6 +164,22 @@ Lista zmian 1.5.0.0:
             <es>Este edificio tiene iluminación automática.</es>
             <ru>Это здание имеет автоматическое освещение.</ru>
             <pl>Ten budynek ma automatyczne oświetlenie.</pl>
+        </text>
+        <text name="action_turnOnMarking">
+            <en>Show warning Stripes</en>
+            <de>Eckmarkierungen einblenden</de>
+            <fr>Afficher les rayures d'avertissement</fr>
+            <es>Mostrar franjas de advertencia</es>
+            <ru>Показать предупреждение полосы</ru>
+            <pl>Pokaż paski ostrzegawcze</pl>
+        </text>
+        <text name="action_turnOffMarking">
+            <en>Hide warning Stripes</en>
+            <de>Eckmarkierungen ausblenden</de>
+            <fr>Masquer les bandes d'avertissement</fr>
+            <es>Ocultar rayas de advertencia</es>
+            <ru>Скрыть предупреждение полосы</ru>
+            <pl>Ukryj paski ostrzegawcze</pl>
         </text>
     </l10n>
 </modDesc>
