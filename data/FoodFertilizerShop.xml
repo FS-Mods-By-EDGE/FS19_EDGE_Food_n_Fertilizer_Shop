@@ -6,6 +6,9 @@
             <function>$l10n_function_EDGEFNF</function>
             <function>$l10n_function_EDGELights</function>
         </functions>
+        <specs>
+            <fillTypes>seeds lime liquidFertilizer Fertilizer herbicide pigFood WHEAT OAT DRYGRASS_WINDROW forage digestate</fillTypes>
+        </specs>
         <image>store/Store_fillingArea.dds</image>
         <price>25000</price>
         <lifetime>1000</lifetime>
