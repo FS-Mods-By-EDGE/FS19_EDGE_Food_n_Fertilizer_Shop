@@ -73,10 +73,10 @@
             <effectNode effectClass="PipeEffect" effectNode="0|0|0|0|2|0" materialType="pipe" materialTypeId="1" fadeTime="0.5" maxBending="0" controlPoint="3.75 0 0 0"/>
             <effectNode effectNode="0|0|0|0|2|1" materialType="smoke" materialTypeId="1" fadeTime="0.5"/>
         </loadTrigger>
+        <fillType name="Fertilizer" priceScale="1.10"/>
         <fillType name="seeds" priceScale="1.10"/>
         <fillType name="lime" priceScale="1.10"/>
         <fillType name="liquidFertilizer" priceScale="1.10"/>
-        <fillType name="Fertilizer" priceScale="1.10"/>
         <fillType name="herbicide" priceScale="1.10"/>
         <fillType name="pigFood" priceScale="1.10"/>
         <fillType name="WHEAT" priceScale="1.10"/>
@@ -84,6 +84,7 @@
         <fillType name="DRYGRASS_WINDROW" priceScale="1.10"/>
         <fillType name="forage" priceScale="1.10"/>
         <fillType name="digestate" priceScale="1.10"/>
+        <fillType name="salt" priceScale="1.10"/>
             <!-- MAIZE Plus -->
 		<fillType name="choppedmaize" 	    priceScale="1.10"/>
 		<fillType name="choppedmaize_fermented"   priceScale="1.10"/>
